@@ -1,10 +1,10 @@
-p{
+.odd{
     background-color: #ff000080; font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #num-2 {
     color: #00f; font-size: 36px;
 }
-.num-3{
+.adjust-font-size{
     font-size: 24px;
 }
 #num-4 {
