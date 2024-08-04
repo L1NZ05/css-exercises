@@ -54,8 +54,22 @@ li {
   padding: 16px;
 }
 
+.info {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 32px;
+  padding: 48px;
+}
+
 .card {
   border: 1px solid #eee;
+  box-sizing: border-box;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  padding: 16px;
+  display: flex;
+  width: 340px;
+  height: auto;
 }
